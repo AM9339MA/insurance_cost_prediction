@@ -1,2 +1,3 @@
 # insurance_cost_prediction
 data_science_project
+Health insurance is a type of insurance that covers medical expenses that arise due to an illness. These expenses could be related to hospitalisation costs, cost of medicines or doctor consultation fees. The main purpose of medical insurance is torecieve the best medical care without any strain or your finance. Health insurance plan offer protection against high medical. costs. It covers hospitlisation expenses, day care procedures, domiciliry expenses, and ambulance charge, beside many other. Based on certain input features such as age, bmi,,no of dependent, smoker, region medical insurance is calculated.
